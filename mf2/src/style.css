@@ -1,8 +1,13 @@
 .mf2 {
-    border: 2px solid #EF0107;
+    border: 2px solid #FF5722;
     height: 50%;
     width: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #FFEBEE;
+}
+
+h2 {
+    color: #FF5722;
 }
